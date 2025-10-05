@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/TEA%20logo.png" alt="The Empowered Agenda Logo" width="200"/>
-</p>
 
 # 🌿 The Empowered Agenda  
 *Where intention meets excellence*

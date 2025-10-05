@@ -8,6 +8,18 @@
 
 
 Welcome to The Empowered Agenda—a coaching platform designed to inspire women to lead with clarity, grow with purpose, and thrive holistically. Whether you're navigating corporate leadership, building a business, or seeking a more intentional life, this space offers tools to support your journey.
+<div style="background-color:#F5F1E9; padding:20px; border-radius:8px; font-family:'Montserrat', sans-serif; color:#333;">
+  <h3 style="text-align:center; font-family:'Playfair Display', serif;">🪞 Weekly Reflection Journal</h3>
+  <p>This guided space invites you to pause, reflect, and realign with your goals. Use it to explore your wins, challenges, and intentions for the week ahead.</p>
+  
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>🌸 What energized me this week?</li>
+    <li>🌿 What felt misaligned or draining?</li>
+    <li>✨ What intention will I carry forward?</li>
+  </ul>
+
+  <p style="margin-top:20px;">Download the printable journal <a href="https://www.canva.com/design/DAG07EX2abg/pswykhNDoHUUHc4zCKUC7w/edit?ui=e30" style="color:#8A9A5B;">here</a>.</p>
+</div>
 
 ---
 

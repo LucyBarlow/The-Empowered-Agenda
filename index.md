@@ -45,3 +45,10 @@ Lucinda is a workplace leader and coach with deep experience in HR, operations, 
 Let’s rise together.
 
 
+<hr style="border: none; height: 2px; background-color: #F4D7D7; margin: 40px 0;"/>
+
+<div style="background-color:#F5F1E9; padding:20px; text-align:center; border-radius:8px; font-family:'Montserrat', sans-serif; font-size:14px; color:#333;">
+  <p><strong>Let’s rise together.</strong></p>
+  <p>Connect with Lucinda · <a href="mailto:lucinda@example.com" style="color:#8A9A5B;">Email</a> · <a href="https://www.linkedin.com/in/lucinda" style="color:#8A9A5B;">LinkedIn</a></p>
+  <p style="margin-top:10px;">© 2025 The Empowered Agenda</p>
+</div>

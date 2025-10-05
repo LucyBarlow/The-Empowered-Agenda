@@ -76,6 +76,21 @@ Let’s rise together.
 
 <div style="background-color:#F5F1E9; padding:20px; text-align:center; border-radius:8px; font-family:'Montserrat', sans-serif; font-size:14px; color:#333;">
   <p><strong>Let’s rise together.</strong></p>
+<div style="background-color:#F4D7D7; padding:20px; border-radius:8px; font-family:'Montserrat', sans-serif; color:#333;">
+  <h3 style="text-align:center; font-family:'Playfair Display', serif;">✅ Action Plan Checklist</h3>
+  <p>Break your goals into clear, doable steps. This checklist helps you stay focused, track progress, and celebrate small wins along the way.</p>
+
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>🔹 Define your first step</li>
+    <li>🔹 Set a realistic timeline</li>
+    <li>🔹 Identify support or resources needed</li>
+    <li>🔹 Track your progress weekly</li>
+    <li>🔹 Celebrate completion and reflect</li>
+  </ul>
+
+  <p style="margin-top:20px;">Download the printable checklist <a href="https://www.canva.com/design/DAG07EX2abg/pswykhNDoHUUHc4zCKUC7w/edit?ui=e30" style="color:#8A9A5B;">here</a>.</p>
+</div>
+
   <p>Connect with Lucinda · <a href="mailto:lucinda@example.com" style="color:#8A9A5B;">Email</a> · <a href="https://www.linkedin.com/in/lucinda" style="color:#8A9A5B;">LinkedIn</a></p>
   <p style="margin-top:10px;">© 2025 The Empowered Agenda</p>
 </div>

@@ -1,10 +1,5 @@
-<div style="background-color:#F4D7D7; padding:20px; text-align:center; border-radius:8px;">
-  <img src="assets/TEALogo" alt="The Empowered Agenda Logo" width="200" style="margin-bottom:10px;"/>
-  <h2 style="margin:0; font-family:'Playfair Display', serif;">The Empowered Agenda</h2>
-  <p style="font-family:'Montserrat', sans-serif; font-size:16px; margin-top:5px;">
-    Where intention meets excellence
-  </p>
-</div>
+<img src="assets/TEALogo.png" alt="The Empowered Agenda Logo" width="200"/>
+
 
 # 🌿 The Empowered Agenda  
 *Where intention meets excellence*

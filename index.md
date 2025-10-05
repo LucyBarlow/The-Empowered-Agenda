@@ -94,3 +94,11 @@ Let’s rise together.
   <p>Connect with Lucinda · <a href="mailto:lucinda@example.com" style="color:#8A9A5B;">Email</a> · <a href="https://www.linkedin.com/in/lucinda" style="color:#8A9A5B;">LinkedIn</a></p>
   <p style="margin-top:10px;">© 2025 The Empowered Agenda</p>
 </div>
+<div style="background-color:#F5F1E9; padding:20px; border-radius:8px; font-family:'Montserrat', sans-serif; color:#333;">
+  <h3 style="text-align:center; font-family:'Playfair Display', serif;">🧰 Explore Coaching Resources</h3>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>🪞 <strong>Weekly Reflection Journal</strong><br/>A guided space to pause, reflect, and realign with your goals.</li>
+    <li>🎯 <strong>Strategic Goal Planner</strong><br/>A SMART framework to help you set meaningful, achievable goals.</li>
+    <li>✅ <strong>Action Plan Checklist</strong><br/>Break down your goals into clear, doable steps.</li>
+  </ul>
+</div>

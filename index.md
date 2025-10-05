@@ -6,8 +6,6 @@
   </p>
 </div>
 
-<img src="assets/TEALogo.png" alt="The Empowered Agenda Logo" width="200"/>
-
 
 Welcome to The Empowered Agenda—a coaching platform designed to inspire women to lead with clarity, grow with purpose, and thrive holistically. Whether you're navigating corporate leadership, building a business, or seeking a more intentional life, this space offers tools to support your journey.
 

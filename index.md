@@ -22,6 +22,21 @@ Welcome to The Empowered Agenda—a coaching platform designed to inspire women 
 </div>
 
 ---
+<div style="background-color:#C2D1C1; padding:20px; border-radius:8px; font-family:'Montserrat', sans-serif; color:#333;">
+  <h3 style="text-align:center; font-family:'Playfair Display', serif;">🎯 Strategic Goal Planner</h3>
+  <p>Use this SMART framework to set goals that are meaningful, achievable, and aligned with your deeper intentions.</p>
+
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>✅ Specific: What exactly do I want to achieve?</li>
+    <li>📏 Measurable: How will I track progress?</li>
+    <li>🎯 Achievable: Is this realistic given my resources?</li>
+    <li>⏳ Relevant: Does this align with my values and priorities?</li>
+    <li>📆 Time-bound: What’s my timeline?</li>
+  </ul>
+
+  <p style="margin-top:20px;">Download the printable planner <a href="https://www.canva.com/design/DAG07EX2abg/pswykhNDoHUUHc4zCKUC7w/edit?ui=e30" style="color:#333;">here</a>.</p>
+</div>
+
 
 ## 🧰 Explore Coaching Resources
 
